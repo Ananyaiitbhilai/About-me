@@ -89,6 +89,25 @@ body {
   font-family: "Noto Sans KR", sans-serif;
   text-transform: uppercase;
 }
+.button {
+  text-decoration: none;
+  background-color: rgba(236, 229, 167, 0.2);
+  
+  color: #fff;
+  display: inline-block;
+  font-size: 1.5em;
+  padding: 8px;
+  transition: 0.35s;
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+  
+}
+.button:hover {
+  text-decoration: none;
+  background-color: white;
+  border-color: white;
+    color: black;}
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes line-show {
