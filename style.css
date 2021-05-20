@@ -89,7 +89,7 @@ body {
   font-family: "Noto Sans KR", sans-serif;
   text-transform: uppercase;
 }
-.button {
+.butto {
   text-decoration: none;
   background-color: rgba(236, 229, 167, 0.2);
   
@@ -103,7 +103,7 @@ body {
   right: 20px;
   
 }
-.button:hover {
+.butto:hover {
   text-decoration: none;
   background-color: white;
   border-color: white;
